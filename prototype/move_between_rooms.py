@@ -11,7 +11,7 @@ rooms = {
 current_room = "Great Hall"
 
 #game loop to keep playing and tell the current room
-while True 
+while True:
     print(f"You are in the {current_room}.") 
 
     #prompts player to enter direction
