@@ -1,4 +1,4 @@
-"""Project Two starter for the student's text-based adventure game."""
+ """Project Two starter for the student's text-based adventure game."""
 
 # TODO: Add the full-name comment required by Project Two directions.
 
